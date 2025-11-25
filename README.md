@@ -8,17 +8,12 @@ I'm currently a budding developer with a keen interest in various programming la
 
 ## Skills & Technologies
 
-js,html,css,git,github,nodejs,react,mysql,flutter,discord,cloudflare,firebase,flask,py,androidstudio,windows,sqlite,vercel,netlify,codepen,discordjs,mongodb
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,nodejs,react,mysql,flutter,discord,cloudflare,firebase,flask,py,androidstudio,windows,sqlite,vercel,netlify,codepen,discordjs,mongodb&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-Here are some of the projects I'm excited about:
 
-- [Bazaarly](https://bazaarly.bhuwan.xyz)  
-  Description: A modern marketplace platform for buying and selling with ease, featuring seamless search, listings, and user-friendly interactions
 
-- [MeroKhata](https://merokhata-np.vercel.app/)
- Description: An offline-capable Nepali expense tracker built for simplicity - manage your daily expenses, categorize your spending, and track your budget, without needing a constant internet connection.
 
 ## Recent Activity
 
@@ -36,3 +31,4 @@ Here are some of the projects I'm excited about:
 
 ## GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-lamichhane&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
