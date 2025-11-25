@@ -29,6 +29,4 @@ I'm currently a budding developer with a keen interest in various programming la
 - Instagram : [itssamir.py](https://instagram.com/itssamir.py)
 - Whatsapp : [+977 9745440930](http://wa.me/9779745440930?text=Hey,%20I%20am%20here%20from%20github%20!!)
 
-## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-lamichhane&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
